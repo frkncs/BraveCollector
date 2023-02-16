@@ -13,8 +13,8 @@ Controls;
 
 <br>
 <h2>I wanna add 2 more features by the way.</h2>
-<h4><li>Lose condition :D. Currently we can't lose game, we have to lose when we get enough damage</li></h4>
-<h4><li>Win / Lose screens</li></h4>
+<li><s>Lose condition :D. Currently we can't lose game, we have to lose when we get enough damage</s></li>
+<li><s>Win / Lose screens</s></li>
 
 <h3><br><br>Screenshots;</h3>
 <br>
