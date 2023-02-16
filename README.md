@@ -11,6 +11,8 @@ Controls;
 <li><kbd>Q</kbd> Throw Spell</li>
 <li><kbd>Left Click</kbd> Attack</li></h3>
 
+<br>You can break the chest with attacking (casual attack or spell) and you can also collect coins with spell
+
 <br>
 <h2>I wanna add 2 more features by the way.</h2>
 <li><s>Lose condition :D. Currently we can't lose game, we have to lose when we get enough damage</s></li>
