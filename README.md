@@ -16,6 +16,10 @@ Controls;
 <li><s>Lose condition :D. Currently we can't lose game, we have to lose when we get enough damage</s></li>
 <li><s>Win / Lose screens</s></li>
 
+
+<h3>Important Note;</h3>
+<h4>I delete assets in the screenshot because I was using <a href="https://www.unrealengine.com/marketplace/en-US/product/stylized-asian-village">Stylized Asian Village</a> package and it's too big for this kinda small project. So i deleted it and used basic cubes and textures. So not suprised when you download and open the project :D)</h4>
+
 <h3><br><br>Screenshots;</h3>
 <br>
 <img width="500" src="Screenshots/Screenshot01.png"></img>
