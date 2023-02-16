@@ -28,7 +28,8 @@ public:
 	FORCEINLINE int GetCoin() { return Coin; }
 
 	//SETTERS
-	FORCEINLINE void SetHealth(int NewHealth) { Health = NewHealth; }
+	UFUNCTION()
+		void SetHealth(int NewHealth);
 	UFUNCTION()
 		void SetCoinCount(int NewCoinCount);
 
@@ -36,6 +37,11 @@ public:
 	void PlayThrowSpellAnim();
 	void PlayHealingAnim();
 	void PlayHitAnim();
+
+	UFUNCTION(BlueprintImplementableEvent)
+		void ShowWinUI();
+	UFUNCTION(BlueprintImplementableEvent)
+		void ShowLoseUI();
 	
 
 protected:

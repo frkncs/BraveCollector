@@ -164,7 +164,17 @@ void ABraveCollectorCharacter::SetCoinCount(int NewCoinCount)
 
 	if (Coin >= GameMode->MaxScore)
 	{
-		UGameplayStatics::OpenLevel(this, "Map01");
+		ShowWinUI();
+	}
+}
+
+void ABraveCollectorCharacter::SetHealth(int NewHealth)
+{
+	Health = NewHealth;
+
+	if (Health <= 0)
+	{
+		ShowLoseUI();
 	}
 }
 
